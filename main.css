@@ -14,7 +14,7 @@ p {
 }
 
 #louisck {
-  color: #008080;
+  color: #7c0920;
  
 }
 
@@ -23,7 +23,7 @@ color: #ff00a9;
 font-size: 20px;}
 
 li {
-  color: #ffbfd3;
+  color: #E49EFF;
   font-size: 18px;
 }
 
@@ -34,4 +34,9 @@ li {
 #k {
   color:pink;
   
+}
+ 
+body {
+    background-color: #ffdaf4;
+    font-family: "Franklin Gothic Medium Condensed", Georgia, Serif;
 }
