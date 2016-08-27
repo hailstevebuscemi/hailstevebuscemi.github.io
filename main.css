@@ -1,6 +1,6 @@
 h1 {
   color: #f08080; 
-  font-size: 30px;
+  font-size: 40px;
 }
 
 a { 
@@ -13,14 +13,6 @@ p {
   font-size: 18px;
 }
 
-#louisck {
-  color: #7c0920;
- 
-}
-
-#h{ 
-color: #ff00a9;
-font-size: 20px;}
 
 li {
   color: #E49EFF;
@@ -42,3 +34,7 @@ body {
 }
 
 
+
+.k{
+  color:; #c79dd7;
+}
